@@ -1,7 +1,7 @@
 
 # Neil Joseph
 
-_Software Engineer based in New Delhi IN_ <br>
+_Your friendly neighbourhood Software Engineer, based in New Delhi IN_ <br>
 
 [Email](mailto:offwork03@gmail.com) / [LinkedIn](https://www.linkedin.com/in/neil-j-3a4693137/) / [GitHub](https://github.com/neiljo10/) 
 
@@ -9,162 +9,62 @@ _Software Engineer based in New Delhi IN_ <br>
 
 **[ENGINEER]Software Engineer/Scrum Master** @ [UNISYS](https://www.unisys.com/) _(AUG 2021 - Present)_ <br>
 [Unisys Dorado Systems](https://www.unisys.com/siteassets/collateral/ebook/eb-04182024-clearpath-foward-solution-overview.pdf#page=6): A mainframe operating system and hardware architecture from Unisys, supporting complex transaction processing..
-  - Designed and implemented Unisys DORADO Systems firmware package manager, streamlining the management of server adapter and hardware firmwares and contributing towards $20M in revenue.
-  - Integrated TLS v1.3 using the SChannel security package across all communication pathways within a legacy application, effectively mitigating security vulnerabilities.
-  - Directed the work of 8 developers across two product teams based in Bangalore-India, and Eagan-USA, driving product development and ensuring cohesive team performance.
-  - **_Technologies and Tools used:_** C++, BASH Scripting, Linux (CentOS7, CentOS9, SUSE), Dell Poweredge Servers, JIRA (Scrum Board)
+  - Designed and implemented Unisys DORADO system firmware package manager, **streamlining the management** of server adapter and hardware firmwares and contributing towards **$20M in revenue**.
+  - Integrated **TLS v1.3 using the SChannel** security package across all communication pathways within a legacy application, **effectively mitigating security vulnerabilities**.
+  - Directed the work of 8 developers across **two product teams** based in Bangalore-India, and Eagan-USA, **driving product development** and ensuring cohesive team performance.
+  - **_Technologies and Tools used:_** C++, BASH Scripting, JENKINS, Linux (CentOS7, CentOS9, SUSE), Dell Poweredge Servers, JIRA (Scrum Board), Tortoise SVN (GIT)
 <br><br>
 
 **[ASSOCIATE]Software Engineer** @ [UNISYS](https://www.unisys.com/) _(JUL 2019 - AUG 2021)_ <br>
 [ClearPath Forward](https://www.unisys.com/solutions/clearpath-forward/#clearPathServices) For computing requirements that demand the utmost in security, resiliency, availability and scalability, ClearPath provides the foundation for business agility and digital transformation..
-  - Developed an API-automation test suite, eliminating 100% manual efforts for API testing.
-  - Wrote 500+ test cases and achieved 65% code coverage with a QUALYS scan SAFE rating.
-  - Developed an Envelope Encryption Utility, protecting customer's personal information and ensuring compliance with Federal Information Processing Standards (FIPS).
-  - **_Technologies and Tools used:_** C#, .NET Framework v4.8, SQL (MariaDB), NUnit, SPA.js, HTML, CSS, Dapper ORM, Postman - API Automation Testing, SonarQUBE
-<br><br>
-
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
-
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
-    
-## 🗞 Journalism Experience
-
-_This section only accounts for work done post-career change._
-<br><br>
-
-**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-Online publication that provides insights into how emerging technologies are expanding human sexuality.
-  - Oversee a team of writers and maintain the editorial focus for futurist publication attracting more than 50,000 monthly visitors and 90,000 monthly page views
-  - Develop article ideas for writers and edit work for readability, grammar, and accuracy
-  - Analyze website traffic and social media analytics to improve online reach and ensure optimal SEO performance
-
-_Previously worked as a Reporter from Dec 2020 - Apr 2022_ <br>
-  - Researched and wrote [original stories on sex and technology](https://futureofsex.net/author/carolyn/) for sophisticated online audience
-  - **_Selected articles:_**
-    - [You Can Now Buy Sex Toys from Vending Machines at Berlin’s New Airport](https://futureofsex.net/sex-tech/berlins-new-airport-debuts-sex-toys-vending-machines/)
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Tech Conference Organizers: Sex Tech Breaks Taboos, Not Codes of Conduct](https://futureofsex.net/sex-tech/tech-conference-organizers-sex-tech-breaks-taboos-not-codes-of-conduct/)
-<br><br>
-
-**Freelance Writer** _(Mar 2020 - Present)_ <br>
-Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Silicon Allee](https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
-
-## 📌 Volunteering
-
-**EU Conference Team Member** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
-  - Introduced speakers and faciliated Q&A sessions
-  <br><br>
-
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Dec 2021)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
-
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selected speakers and scheduling events
-  - Fostered an inclusive community and enforced the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-
-## 🎤 Public Speaking
-    
-### Recent Appearances
-
-- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
-<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
+  - Developed an API-automation test suite, **eliminating 100% manual efforts** for API testing.
+  - Wrote 500+ test cases and **achieved 65% code coverage** with a QUALYS scan **SAFE** rating.
+  - Developed an **Envelope Encryption Utility**, protecting customer's personal information and **ensuring compliance** with Federal Information Processing Standards (FIPS).
+  - **_Technologies and Tools used:_** C#, .NET Framework v4.8, SQL (MariaDB), NUnit, SPA.js, HTML, CSS, Dapper ORM, Postman - API Automation Testing, SonarQUBE, BitBucket (GIT)
 <br><br>
   
 ## 🏆 Accomplishments
 
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
+**Founder** - Unisys Agile _(JUN 2024 - Present)_ <br>
+  - Built a community of Product Owners and Scrum Masters to exchange strategies, practices, and experiences on implementing Agile best practices, promoting AGILE through internal social media, training materials, and     
+    Scrum coaching.
 <br><br>
 
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
+**Technical Core Member** - ClearPath AIFocus Group at Unisys _(JAN 2024 - DEC 2024)_ <br>
+  - Leveraged generative AI expertise to guide organizational PoC implementations across various product teams within one business unit.
 <br><br>
 
-## 💬 Languages
+Secured **3rd position out of 150 submissions** in the Unisys White-Paper Challenge, a **research-skills-focused** internal competition, offering a chance for publication in IEEE or Springer Journals _(MAR 2020)_ <br>
+  - Proposed a proactive **NLP solution**that predicts and prevents misdirected emails by **contextual analysis of email content and recipient** relevance, **minimizing the risk** of data leaks and compliance violations.
+<br><br>
 
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+Placed in the **top 0.05%** of innovators across India, **ranking #4 out of 8,048 participants** at [Unisys Cloud 20/20 Y9](https://www.unisys.com/news-release/unisys-announces-winners-ninth-annual-cloud-2020-contest/) (329 project submissions) _(APR 2018)_ <br>
+  - Developed **HOLOTOUCH**, a device that transforms any flat surface into an interactive computer interface.
+<br><br> 
+
+## 🥇 Certifications
+
+**Certified Scrum Master** (CSM) - SCRUM ALLIANCE _(APR 2023-25)_ <br>
+  - Certificant ID: 001515646
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCES, PILANI, INDIA** _(2021 - 2023)_ <br>
+  - **Masters in Technology** in Software Engineering _(CGPA - 7.33 on a 10 scale)_
+  - Dissertation: Proposed a **machine learning-based approach** to aid identification of individuals using demographic data, focusing on **undocumented individuals**
+<br><br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**CHRIST (DEEMED TO BE UNIVERSITY), BANGALORE, INDIA** _(2015 - 2019)_ <br>
+  - **Bachelors in Technology** in Computer Science and Engineering _(GPA - 3.2 on a 4 scale)_
+  - Interships
+      - **Software Developer** @ [VASAPTEX, LLP](https://vasaptex.com/) _(Noida, IN)_: Developed a **Mobile Application** using Android Studio, JAVA, and React-Native.
+      - **Game Programmer** @ [TOKO Innovation Studios](https://www.crunchbase.com/organization/toko-innovations-studios) _(New Delhi, IN)_: Developed **2 Mobile Games** for Android Devices using Construct2 Game Engine.
+  - **Capstone Project**: Conducted an industry research project at Unisys to identify and analyze an open-source database for the **Unisys Stealth Identity** with cloud compatibility.
+<br><br>
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
+## 💬 Languages
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+🇮🇳 HINDI: Native <br>
+🇺🇸 ENGLISH: C2
+<br><br>

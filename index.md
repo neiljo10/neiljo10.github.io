@@ -1,10 +1,4 @@
 
-# Neil Joseph
-
-_Your friendly neighbourhood Software Engineer, based in New Delhi IN_ <br>
-
-[Email](mailto:offwork03@gmail.com) / [LinkedIn](https://www.linkedin.com/in/neil-j-3a4693137/) / [GitHub](https://github.com/neiljo10/) 
-
 ## 👨‍💻 Engineering Experience
 
 **[ENGINEER]Software Engineer/Scrum Master** @ [UNISYS](https://www.unisys.com/) _(AUG 2021 - Present)_ <br>

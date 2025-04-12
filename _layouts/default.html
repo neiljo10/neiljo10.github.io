@@ -23,8 +23,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <p class="view"><a href="mailto:offwork03@gmail.com">Email</a>/<a href="https://www.linkedin.com/in/neil-j-3a4693137/" target="_blank">LinkedIn</a>/<a href="https://github.com/neiljo10/" target="_blank">GitHub</a></p>
+
         {% if site.github.is_project_page %}
-        <p class="view"><a href="#" onclick="window.print()">Download this CV</a></p>
+        <p class="view"><a href="/_assets/cv.pdf" download>Download this CV</a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}

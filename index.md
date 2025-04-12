@@ -5,10 +5,10 @@ _Your friendly neighbourhood Software Engineer, based in New Delhi IN_ <br>
 
 [Email](mailto:offwork03@gmail.com) / [LinkedIn](https://www.linkedin.com/in/neil-j-3a4693137/) / [GitHub](https://github.com/neiljo10/) 
 
-## 👩🏼‍💻 Engineering Experience
+## 👨‍💻 Engineering Experience
 
 **[ENGINEER]Software Engineer/Scrum Master** @ [UNISYS](https://www.unisys.com/) _(AUG 2021 - Present)_ <br>
-[Unisys Dorado Systems](https://www.unisys.com/siteassets/collateral/ebook/eb-04182024-clearpath-foward-solution-overview.pdf#page=6): A mainframe operating system and hardware architecture from Unisys, supporting complex transaction processing..
+[Unisys Dorado Systems](https://www.unisys.com/siteassets/collateral/ebook/eb-04182024-clearpath-foward-solution-overview.pdf#page=6): A mainframe operating system and hardware architecture from Unisys, supporting complex transaction processing.
   - Designed and implemented Unisys DORADO system firmware package manager, **streamlining the management** of server adapter and hardware firmwares and contributing towards **$20M in revenue**.
   - Integrated **TLS v1.3 using the SChannel** security package across all communication pathways within a legacy application, **effectively mitigating security vulnerabilities**.
   - Directed the work of 8 developers across **two product teams** based in Bangalore-India, and Eagan-USA, **driving product development** and ensuring cohesive team performance.
@@ -16,7 +16,7 @@ _Your friendly neighbourhood Software Engineer, based in New Delhi IN_ <br>
 <br><br>
 
 **[ASSOCIATE]Software Engineer** @ [UNISYS](https://www.unisys.com/) _(JUL 2019 - AUG 2021)_ <br>
-[ClearPath Forward](https://www.unisys.com/solutions/clearpath-forward/#clearPathServices) For computing requirements that demand the utmost in security, resiliency, availability and scalability, ClearPath provides the foundation for business agility and digital transformation..
+[ClearPath Forward](https://www.unisys.com/solutions/clearpath-forward/#clearPathServices) For computing requirements that demand the utmost in security, resiliency, availability and scalability, ClearPath provides the foundation for business agility and digital transformation.
   - Developed an API-automation test suite, **eliminating 100% manual efforts** for API testing.
   - Wrote 500+ test cases and **achieved 65% code coverage** with a QUALYS scan **SAFE** rating.
   - Developed an **Envelope Encryption Utility**, protecting customer's personal information and **ensuring compliance** with Federal Information Processing Standards (FIPS).
@@ -48,7 +48,7 @@ Placed in the **top 0.05%** of innovators across India, **ranking #4 out of 8,04
   - Certificant ID: 001515646
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCES, PILANI, INDIA** _(2021 - 2023)_ <br>
   - **Masters in Technology** in Software Engineering _(CGPA - 7.33 on a 10 scale)_
@@ -57,7 +57,7 @@ Placed in the **top 0.05%** of innovators across India, **ranking #4 out of 8,04
 
 **CHRIST (DEEMED TO BE UNIVERSITY), BANGALORE, INDIA** _(2015 - 2019)_ <br>
   - **Bachelors in Technology** in Computer Science and Engineering _(GPA - 3.2 on a 4 scale)_
-  - Interships
+  - **Interships**
       - **Software Developer** @ [VASAPTEX, LLP](https://vasaptex.com/) _(Noida, IN)_: Developed a **Mobile Application** using Android Studio, JAVA, and React-Native.
       - **Game Programmer** @ [TOKO Innovation Studios](https://www.crunchbase.com/organization/toko-innovations-studios) _(New Delhi, IN)_: Developed **2 Mobile Games** for Android Devices using Construct2 Game Engine.
   - **Capstone Project**: Conducted an industry research project at Unisys to identify and analyze an open-source database for the **Unisys Stealth Identity** with cloud compatibility.

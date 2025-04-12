@@ -19,26 +19,26 @@
   
 ## 🏆 Accomplishments
 
-**Founder** - Unisys Agile _(JUN 2024 - Present)_ <br>
+- **Founder** - Unisys Agile _(JUN 2024 - Present)_ <br>
   - Built a community of Product Owners and Scrum Masters to exchange strategies, practices, and experiences on implementing Agile best practices, promoting AGILE through internal social media, training materials, and     
     Scrum coaching.
 <br><br>
 
-**Technical Core Member** - ClearPath AIFocus Group at Unisys _(JAN 2024 - DEC 2024)_ <br>
+- **Technical Core Member** - ClearPath AIFocus Group at Unisys _(JAN 2024 - DEC 2024)_ <br>
   - Leveraged generative AI expertise to guide organizational PoC implementations across various product teams within one business unit.
 <br><br>
 
-Secured **3rd position out of 150 submissions** in the Unisys White-Paper Challenge, a **research-skills-focused** internal competition, offering a chance for publication in IEEE or Springer Journals _(MAR 2020)_ <br>
+- Secured **3rd position out of 150 submissions** in the Unisys White-Paper Challenge, a **research-skills-focused** internal competition, offering a chance for publication in IEEE or Springer Journals _(MAR 2020)_ <br>
   - Proposed a proactive **NLP solution**that predicts and prevents misdirected emails by **contextual analysis of email content and recipient** relevance, **minimizing the risk** of data leaks and compliance violations.
 <br><br>
 
-Placed in the **top 0.05%** of innovators across India, **ranking #4 out of 8,048 participants** at [Unisys Cloud 20/20 Y9](https://www.unisys.com/news-release/unisys-announces-winners-ninth-annual-cloud-2020-contest/) (329 project submissions) _(APR 2018)_ <br>
+- Placed in the **top 0.05%** of innovators across India, **ranking #4 out of 8,048 participants** at [Unisys Cloud 20/20 Y9](https://www.unisys.com/news-release/unisys-announces-winners-ninth-annual-cloud-2020-contest/) (329 project submissions) _(APR 2018)_ <br>
   - Developed **HOLOTOUCH**, a device that transforms any flat surface into an interactive computer interface.
 <br><br> 
 
 ## 🥇 Certifications
 
-**Certified Scrum Master** (CSM) - SCRUM ALLIANCE _(APR 2023-25)_ <br>
+- **Certified Scrum Master** (CSM) - SCRUM ALLIANCE _(APR 2023-25)_ <br>
   - Certificant ID: 001515646
 <br><br>
 

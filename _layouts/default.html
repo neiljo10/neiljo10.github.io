@@ -7,6 +7,8 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/download_button.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -21,16 +23,21 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p><small>{{ site.description | default: site.github.project_tagline }}</small></p>
 
-        <p class="view"><a href="mailto:offwork03@gmail.com">Email</a>/<a href="https://www.linkedin.com/in/neil-j-3a4693137/" target="_blank">LinkedIn</a>/<a href="https://github.com/neiljo10/" target="_blank">GitHub</a></p>
+        <p class="view" style="margin-bottom: 0;"> Reach me here,
+          <ul style="padding:0;">
+            <li style="list-style-type: none;"><a class="fa-solid fa-envelope"></a><a ref="mailto:offwork03@gmail.com"> Email </a></li>
+            <li style="list-style-type: none;"><a class="fa-brands fa-linkedin" href="https://www.linkedin.com/in/neil-j-3a4693137/" target="_blank"></a> LinkedIn </li>
+            <li style="list-style-type: none;"><a class="fa-brands fa-github" href="https://github.com/neiljo10/" target="_blank"></a> GitHub </li>
+          </ul>
+        </p>
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}"><strong>PDF</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}"><strong>Word</strong></a></li>
-        </ul>
-        {% endif %}
+        <p><small>Download a copy of my Resume</small></p>
+        <a href="https://neiljo10.github.io/Neil%20Joseph_CV.pdf" download="Neil_Joseph_Resume.pdf">
+          <span class="downloadButton">Download</span>
+        </a>
+
       </header>
       <section>
 

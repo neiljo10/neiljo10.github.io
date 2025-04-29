@@ -2,10 +2,3 @@ theme: jekyll-theme-minimal
 title: Neil Joseph
 description: I am your friendly neighbourhood Software Engineer, based in New Delhi, India. I have been switching tabs for over 6 years now and my ‘spidey senses’ work best while debugging code. 
 logo: assets/img/logo.jpeg
-platforms:
-  - name: GitHub
-    icon: <i class="fa fa-github"></i>
-    link: https://github.com/vaibhavvikas
-  - name: LinkedIn
-    icon: <i class="fa fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas

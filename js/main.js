@@ -52,7 +52,10 @@ if (contactForm) {
     // Honeypot check — bots fill this, humans don't see it
     const honeypot = contactForm.querySelector('input[name="_gotcha"]');
     if (honeypot && honeypot.value) {
-      document.getElementById('cfSuccess').classList.add('visible');
+      const success = document.getElementById('cfSuccess');
+      contactForm.style.display = 'none';
+      success.removeAttribute('hidden');
+      success.classList.add('visible');
       return;
     }
 
@@ -67,7 +70,10 @@ if (contactForm) {
         headers: { 'Accept': 'application/json' }
       });
       if (res.ok) {
-        document.getElementById('cfSuccess').classList.add('visible');
+        const success = document.getElementById('cfSuccess');
+        contactForm.style.display = 'none';
+        success.removeAttribute('hidden');
+        success.classList.add('visible');
       } else {
         btn.classList.remove('loading');
         btn.disabled = false;

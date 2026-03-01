@@ -666,7 +666,7 @@
             <textarea class="cf-textarea" id="cf-msg" name="message" rows="5" placeholder="What's on your mind?" maxlength="3000" required></textarea>
           </div>
           <!-- Honeypot: invisible to humans, bots will fill it -->
-          <div class="cf-honeypot" aria-hidden="true">
+          <div class="cf-honeypot" aria-hidden="true" style="display:none">
             <label for="cf-website">Website</label>
             <input type="text" id="cf-website" name="_gotcha" tabindex="-1" autocomplete="off">
           </div>
@@ -677,7 +677,7 @@
         </form>
 
         <!-- Success state — revealed in-place on submit -->
-        <div class="cf-success" id="cfSuccess" aria-live="polite">
+        <div class="cf-success" id="cfSuccess" aria-live="polite" hidden>
           <div class="cf-success-icon">✓</div>
           <div class="cf-success-title">Message sent!</div>
           <div class="cf-success-body">Thanks for reaching out — I'll be in touch soon.</div>

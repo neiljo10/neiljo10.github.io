@@ -798,18 +798,21 @@ nav.scrolled { box-shadow: 0 2px 24px rgba(13,17,23,.07); }
 .cf-btn.loading .cf-spinner { display: block; }
 @keyframes cf-spin { to { transform: rotate(360deg); } }
 
-/* Success overlay — sits above the form, fades in on send */
+/* Success state — replaces the form when sent */
 .cf-success {
-  position: absolute; inset: 0;
-  display: flex; flex-direction: column;
+  display: none;
+  flex-direction: column;
   align-items: center; justify-content: center;
   text-align: center; padding: 40px 28px;
-  background: rgba(30,38,54,.97);
-  border-radius: 20px;
-  opacity: 0; pointer-events: none;
-  transition: opacity .4s ease;
 }
-.cf-success.visible { opacity: 1; pointer-events: auto; }
+.cf-success.visible {
+  display: flex;
+  animation: cf-fadein .4s ease forwards;
+}
+@keyframes cf-fadein {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: none; }
+}
 .cf-success-icon {
   width: 60px; height: 60px; border-radius: 50%;
   background: rgba(5,150,105,.12);

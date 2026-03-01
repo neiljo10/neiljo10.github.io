@@ -601,27 +601,87 @@
 <section id="contact">
   <div class="contact-layout">
 
-    <div class="contact-left" style="max-width:600px;">
+    <div class="contact-left">
       <div class="s-eyebrow appear" style="color:rgba(0,180,216,.7);">Get in Touch</div>
       <h2 class="appear ap1">Let's build<br><em>something great.</em></h2>
       <p class="appear ap2">Whether you're hiring, collaborating, or just want to talk product and engineering — my inbox is always open.</p>
       <div class="c-channels appear ap3">
         <div class="c-chan">
-          <div class="c-ic">📍</div>
-          <div><div class="c-lbl">Location</div><div class="c-val">New Delhi, India</div></div>
+          <div class="c-ic">🌍</div>
+          <div>
+            <div class="c-lbl">Open to Work</div>
+            <div class="c-val c-locations">
+              <span class="c-loc-tag">Delhi-NCR</span>
+              <span class="c-loc-sep">·</span>
+              <span class="c-loc-tag">Remote</span>
+              <span class="c-loc-sep">·</span>
+              <span class="c-loc-tag">Worldwide</span>
+            </div>
+          </div>
         </div>
-        <a class="c-chan" href="mailto:offwork03@gmail.com">
-          <div class="c-ic">✉️</div>
-          <div><div class="c-lbl">Email</div><div class="c-val">offwork03@gmail.com</div></div>
-        </a>
         <a class="c-chan" href="https://www.linkedin.com/in/neil-j-3a4693137/" target="_blank" rel="noopener">
-          <div class="c-ic">💼</div>
-          <div><div class="c-lbl">LinkedIn</div><div class="c-val">Neil Joseph</div></div>
+          <div class="c-ic">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+              <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+            </svg>
+          </div>
+          <div><div class="c-lbl">LinkedIn</div><div class="c-val">Want to connect?</div></div>
         </a>
-        <a class="c-chan" href="https://github.com/neiljo10" target="_blank" rel="noopener">
-          <div class="c-ic">🐙</div>
-          <div><div class="c-lbl">GitHub</div><div class="c-val">github.com/neiljo10</div></div>
-        </a>
+      </div>
+    </div>
+
+    <!-- Contact Form — set your Formspree endpoint in the action below -->
+    <div class="contact-right appear ap4">
+      <div class="cf-card">
+        <form class="cf-form" id="contactForm" action="https://formspree.io/f/xqedobqa" method="POST">
+          <div class="cf-header">
+            <div class="cf-title">Send a message</div>
+            <div class="cf-sub">// I'll reply within 24 hours.</div>
+          </div>
+          <div class="cf-field">
+            <label class="cf-label" for="cf-name">Name</label>
+            <input class="cf-input" id="cf-name" name="name" type="text" placeholder="Your name" maxlength="100" required>
+          </div>
+          <div class="cf-field">
+            <label class="cf-label" for="cf-email">Email</label>
+            <input class="cf-input" id="cf-email" name="email" type="email" placeholder="your@email.com" required>
+          </div>
+          <div class="cf-field">
+            <label class="cf-label" for="cf-subject">Subject</label>
+            <div class="cf-select-wrap">
+              <select class="cf-select" id="cf-subject" name="subject" required>
+                <option value="" disabled selected>What's this about?</option>
+                <option value="Request CV">Request CV</option>
+                <option value="Job Opportunity">Job Opportunity</option>
+                <option value="Freelance / Consulting">Freelance / Consulting</option>
+                <option value="Invite me for a Talk">Invite me for a Talk</option>
+                <option value="Request a Collaboration">Request a Collaboration</option>
+                <option value="Just saying hi">Just saying hi</option>
+              </select>
+              <span class="cf-select-arrow" aria-hidden="true">▾</span>
+            </div>
+          </div>
+          <div class="cf-field">
+            <label class="cf-label" for="cf-msg">Message</label>
+            <textarea class="cf-textarea" id="cf-msg" name="message" rows="5" placeholder="What's on your mind?" maxlength="3000" required></textarea>
+          </div>
+          <!-- Honeypot: invisible to humans, bots will fill it -->
+          <div class="cf-honeypot" aria-hidden="true">
+            <label for="cf-website">Website</label>
+            <input type="text" id="cf-website" name="_gotcha" tabindex="-1" autocomplete="off">
+          </div>
+          <button class="cf-btn" type="submit">
+            <span class="cf-btn-text">Send Message →</span>
+            <span class="cf-spinner" aria-hidden="true"></span>
+          </button>
+        </form>
+
+        <!-- Success state — revealed in-place on submit -->
+        <div class="cf-success" id="cfSuccess" aria-live="polite">
+          <div class="cf-success-icon">✓</div>
+          <div class="cf-success-title">Message sent!</div>
+          <div class="cf-success-body">Thanks for reaching out — I'll be in touch soon.</div>
+        </div>
       </div>
     </div>
 

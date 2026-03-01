@@ -44,6 +44,41 @@ function switchExpTab(id, btn) {
   setTimeout(runReveal, 50);
 }
 
+// ── CONTACT FORM ──
+const contactForm = document.getElementById('contactForm');
+if (contactForm) {
+  contactForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    // Honeypot check — bots fill this, humans don't see it
+    const honeypot = contactForm.querySelector('input[name="_gotcha"]');
+    if (honeypot && honeypot.value) {
+      document.getElementById('cfSuccess').classList.add('visible');
+      return;
+    }
+
+    const btn = contactForm.querySelector('.cf-btn');
+    btn.classList.add('loading');
+    btn.disabled = true;
+
+    try {
+      const res = await fetch(contactForm.action, {
+        method: 'POST',
+        body: new FormData(contactForm),
+        headers: { 'Accept': 'application/json' }
+      });
+      if (res.ok) {
+        document.getElementById('cfSuccess').classList.add('visible');
+      } else {
+        btn.classList.remove('loading');
+        btn.disabled = false;
+      }
+    } catch {
+      btn.classList.remove('loading');
+      btn.disabled = false;
+    }
+  });
+}
+
 // ── PROFICIENCY BARS ──
 let barsAnimated = false;
 function animateBars() {
